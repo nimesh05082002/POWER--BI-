@@ -144,7 +144,7 @@ You can:
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is developed under the guidance of **ACE Academy (Sunstone)**.
 
 ---
 
